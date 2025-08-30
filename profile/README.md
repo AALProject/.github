@@ -1,12 +1,11 @@
-## Hi there 👋
+## Who are we?
+> We need real leaders instead of dictatorship. So this organization was created.
 
-<!--
+## About us
+> The full name of AALProject is Anti-Authoritarian Leaders Project, which is to resist the stupid things done by leaders of certain countries.
 
-**Here are some ideas to get you started:**
+## Worries
+> Arrests by the Chinese government.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Next step
+> There's nothing. We don't know what to do first...
